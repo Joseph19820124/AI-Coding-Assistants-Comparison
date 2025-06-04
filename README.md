@@ -14,6 +14,7 @@
 
 ## 📚 文档结构
 
+- [`quick-decision-guide.md`](./quick-decision-guide.md) - ⚡ **快速决策指南** (推荐先看)
 - [`detailed-comparison.md`](./detailed-comparison.md) - 详细技术对比分析
 - [`feature-matrix.md`](./feature-matrix.md) - 功能特性对比表
 - [`performance-analysis.md`](./performance-analysis.md) - 性能基准测试分析
@@ -72,7 +73,7 @@
 
 - [Google Jules官方网站](https://jules.google/)
 - [OpenAI Codex文档](https://openai.com/)
-- [详细比较分析](./detailed-comparison.md)
+- [快速决策指南](./quick-decision-guide.md) - 一分钟选择合适工具
 
 ## 🤝 贡献
 
